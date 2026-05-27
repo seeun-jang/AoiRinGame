@@ -11,14 +11,13 @@
 # 🖼 게임 화면
 
 <p align="center">
-  <img src="docs/screenshots/210554.png" width="49%">
-  <img src="docs/screenshots/210628.png" width="49%">
+  <img src="docs/images/210554.png" width="49%">
+  <img src="docs/images/210628.png" width="49%">
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/210653.png" width="80%">
+  <img src="docs/images/210653.png" width="80%">
 </p>
-
 ---
 
 # 💙 프로젝트 소개
@@ -64,3 +63,4 @@
 
 # 🌐 실행 방법
 
+ https://seeun-jang.github.io/AoiRinGame/
