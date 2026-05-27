@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>アオイリンの恋日記</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="title-screen">
+        <div class="title-hero">
+            <div class="title-text">
+                <h1>アオイリンの恋日記</h1>
+                <p> 아오이 린의 푸른 봄 연애일지 ♥</p>
+                <button onclick="startGame()">START</button>
+            </div>
+
+            <img src="images/AoiRin.png" class="title-rin" alt="아오이 린">
+        </div>
+    </div>
+
+    <div id="game-screen" class="hidden">
+
+        <div class="logo">
+            <h2>Aoi Rin</h2>
+            <p>~ Blue Spring Memory ~</p>
+        </div>
+
+        <div class="right-menu">
+            <button>💾 SAVE</button>
+            <button>📁 LOAD</button>
+            <button>💬 LOG</button>
+            <button>▶ AUTO</button>
+            <button>⚙ MENU</button>
+        </div>
+
+        <img id="rin" src="images/AoiRin.png" alt="아오이 린">
+
+        <div id="choices"></div>
+
+        <div class="dialog-box">
+            <div id="speaker">アオイ リン ❀</div>
+            <p id="dialog">......</p>
+
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
