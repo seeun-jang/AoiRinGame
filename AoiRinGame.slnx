@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AoiRinGame.vcxproj" Id="092810c1-e085-4e28-aa55-02fb4ab01978" />
+</Solution>
