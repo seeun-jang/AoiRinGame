@@ -1,5 +1,4 @@
-# 🌸 아오이 린의 연애일지
-### アオイリンの恋日記
+# 🌸 アオイリンの恋日記: 아오이 린의 연애일지  
 
 한국폴리텍대학 서울정수캠  
 2601110299 장세은  
@@ -12,9 +11,12 @@
 # 🖼 게임 화면
 
 <p align="center">
-  <img src="210554.png" width="32%">
-  <img src="210628.png" width="32%">
-  <img src="210653.png" width="32%">
+  <img src="docs/screenshots/210554.png" width="49%">
+  <img src="docs/screenshots/210628.png" width="49%">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/210653.png" width="80%">
 </p>
 
 ---
