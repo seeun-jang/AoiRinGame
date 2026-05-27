@@ -16,7 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="docs/images/210653.png" width="80%">
+  <img src="docs/images/210653.png" width="49%">
+  <img src="docs/images/212259.png" width="49%">
 </p>
 ---
 
