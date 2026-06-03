@@ -3,8 +3,7 @@
  이 게임은 일본 미연시 감성을 기반으로 제작한 웹 비주얼 노벨 프로젝트입니다.  
 플레이어는 선택지를 통해 아오이 린과의 관계를 변화시키며 다양한 엔딩을 경험하게 됩니다.  
 
-# 🌐 실행 방법  
-https://seeun-jang.github.io/AoiRinGame/  
+🌐 실행 방법 https://seeun-jang.github.io/AoiRinGame/  
 
 # 🖼 게임 화면
 
